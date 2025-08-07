@@ -1,7 +1,6 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
-import FIT5032Msg from './components/FIT5032Msg.vue'
 </script>
 
 <template>
@@ -10,7 +9,6 @@ import FIT5032Msg from './components/FIT5032Msg.vue'
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-      <FIT5032Msg msg="This is your first Vue 3 app!" />
     </div>
   </header>
 
